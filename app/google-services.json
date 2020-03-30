@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763586293332",
+    "firebase_url": "https://supervictoringame.firebaseio.com",
+    "project_id": "supervictoringame",
+    "storage_bucket": "supervictoringame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763586293332:android:7431e20c7646aa49df07c1",
+        "android_client_info": {
+          "package_name": "com.itGamePart.supervictoringame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763586293332-lhum6ni3tr39rvu2vka2h0lncnoikb8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0NrlvWDYJZP13QiHtUj-G634sAGyt_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763586293332-lhum6ni3tr39rvu2vka2h0lncnoikb8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
